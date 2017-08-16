@@ -28,7 +28,7 @@
     'author': "Humanytek",
     'website': "http://www.humanytek.com",
     'category': 'Purchases',
-    'version': '0.1.0',
+    'version': '1.0.0',
     'depends': ['purchase', 'web_tree_image', ],
     'data': [
         'views/purchase_view.xml',
